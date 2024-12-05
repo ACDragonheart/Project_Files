@@ -820,7 +820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My Office / SF Planning"
+        "name": "Locale 1"
       },
       "geometry": {
         "coordinates": [
@@ -834,7 +834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My House"
+        "name": "Locale 2"
       },
       "geometry": {
         "coordinates": [
@@ -848,7 +848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My Dad's Work"
+        "name": "Locale 3"
       },
       "geometry": {
         "coordinates": [
@@ -862,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My School"
+        "name": "Locale 4"
       },
       "geometry": {
         "coordinates": [
@@ -876,7 +876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Youthworks HQ"
+        "name": "Locale 5"
       },
       "geometry": {
         "coordinates": [
@@ -890,7 +890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My Elementary School"
+        "name": "Locale 6"
       },
       "geometry": {
         "coordinates": [
@@ -904,7 +904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My Grandparents' House"
+        "name": "Locale 7"
       },
       "geometry": {
         "coordinates": [
@@ -918,7 +918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "My Childhood Home"
+        "name": "Locale 8"
       },
       "geometry": {
         "coordinates": [
